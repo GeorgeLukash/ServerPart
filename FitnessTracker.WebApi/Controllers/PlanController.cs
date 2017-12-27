@@ -143,7 +143,7 @@ namespace FitnessTracker.WebApi.Controllers
             }
         }
 
-        [Route("exercise")]
+        [Route("exercises")]
         [AuthorizeIfTokenValid]
         [HttpPost]
         public IHttpActionResult AddExercise(IList<PostExerciseModel> model)
