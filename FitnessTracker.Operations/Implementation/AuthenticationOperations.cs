@@ -23,6 +23,17 @@ namespace FitnessTracker.Operations.Implementation
             _passwordContext = password;
         }
 
+        public UserAuthModel GetMe(int userId)
+        {
+            var user = _unitOfWork.Repository<UserEntity>().GetById(userId);
+            return new UserAuthModel
+            {
+                Id = user.Id,
+                Email = user.Email,
+                Role = user.Role
+            };
+        }
+
         public UserModel FindUser(string username, string password)
         {
             var user = _unitOfWork.Repository<UserEntity>().Set.FirstOrDefault(x => x.Email == username);

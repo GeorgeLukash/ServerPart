@@ -13,3 +13,10 @@ C:\Projects\FitnessTracker\FitnessTracker.DataModel\obj\Debug\FitnessTracker.Dat
 C:\Projects\FitnessTracker\FitnessTracker.DataModel\obj\Debug\FitnessTracker.DataModel.csproj.CoreCompileInputs.cache
 C:\Projects\FitnessTracker\FitnessTracker.DataModel\obj\Debug\FitnessTracker.DataModel.dll
 C:\Projects\FitnessTracker\FitnessTracker.DataModel\obj\Debug\FitnessTracker.DataModel.pdb
+D:\prj\server\FitnessTracker.DataModel\bin\Debug\FitnessTracker.DataModel.dll
+D:\prj\server\FitnessTracker.DataModel\bin\Debug\FitnessTracker.DataModel.pdb
+D:\prj\server\FitnessTracker.DataModel\bin\Debug\Newtonsoft.Json.dll
+D:\prj\server\FitnessTracker.DataModel\bin\Debug\Newtonsoft.Json.xml
+D:\prj\server\FitnessTracker.DataModel\obj\Debug\FitnessTracker.DataModel.csproj.CoreCompileInputs.cache
+D:\prj\server\FitnessTracker.DataModel\obj\Debug\FitnessTracker.DataModel.dll
+D:\prj\server\FitnessTracker.DataModel\obj\Debug\FitnessTracker.DataModel.pdb

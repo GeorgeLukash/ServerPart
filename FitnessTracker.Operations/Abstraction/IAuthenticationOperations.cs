@@ -8,6 +8,7 @@ namespace FitnessTracker.Operations.Abstraction
         UserModel RegisterUser(AuthenticationModel user);
         UserModel FindUser(string username, string password);
         SaltModel GenerateSalt(string password);
+        UserAuthModel GetMe(int userId);
         //void UpdateToken(ExpirationTokenModel model);
     }
 }

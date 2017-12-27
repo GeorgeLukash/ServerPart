@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="Auth\AuthenticationModel.cs" />
     <Compile Include="Auth\SaltModel.cs" />
+    <Compile Include="Auth\UserAuthModel.cs" />
     <Compile Include="BlockExersiceModel.cs" />
     <Compile Include="BlockPostModel.cs" />
     <Compile Include="Diet\DietModel.cs" />

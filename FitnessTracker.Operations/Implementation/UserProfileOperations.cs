@@ -24,10 +24,11 @@ namespace FitnessTracker.Operations.Implementation
             return new UserProfileModel
             {
                 Age = user.Profile.Age,
+                Sex = user.Profile.Sex,
                 Height = user.Profile.Height,
                 Weight = user.Profile.Weight,
                 Firstname = user.Firstname,
-                Lastname = user.Lastname,
+                Lastname = user.Lastname,                
                 Image = user.Image,
                 Email = user.Email
             };

@@ -15,3 +15,11 @@ C:\Projects\FitnessTracker\FitnessTracker.SecurityContext\obj\Debug\FitnessTrack
 C:\Projects\FitnessTracker\FitnessTracker.SecurityContext\obj\Debug\FitnessTracker.SecurityContext.csproj.CoreCompileInputs.cache
 C:\Projects\FitnessTracker\FitnessTracker.SecurityContext\obj\Debug\FitnessTracker.SecurityContext.dll
 C:\Projects\FitnessTracker\FitnessTracker.SecurityContext\obj\Debug\FitnessTracker.SecurityContext.pdb
+D:\prj\server\FitnessTracker.SecurityContext\bin\Debug\FitnessTracker.SecurityContext.dll
+D:\prj\server\FitnessTracker.SecurityContext\bin\Debug\FitnessTracker.SecurityContext.pdb
+D:\prj\server\FitnessTracker.SecurityContext\bin\Debug\CryptSharp.dll
+D:\prj\server\FitnessTracker.SecurityContext\bin\Debug\CryptSharp.pdb
+D:\prj\server\FitnessTracker.SecurityContext\bin\Debug\CryptSharp.xml
+D:\prj\server\FitnessTracker.SecurityContext\obj\Debug\FitnessTracker.SecurityContext.csproj.CoreCompileInputs.cache
+D:\prj\server\FitnessTracker.SecurityContext\obj\Debug\FitnessTracker.SecurityContext.dll
+D:\prj\server\FitnessTracker.SecurityContext\obj\Debug\FitnessTracker.SecurityContext.pdb
