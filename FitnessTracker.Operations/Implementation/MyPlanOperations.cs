@@ -31,6 +31,7 @@ namespace FitnessTracker.Operations.Implementation
                 {
                     Amount = model.Amount,
                     Distance = model.Distance,
+                    Name = model.Name,
                     Time = model.Time,
                     Weight = model.Weight,
                     CreatedAt = DateTimeOffset.Now,

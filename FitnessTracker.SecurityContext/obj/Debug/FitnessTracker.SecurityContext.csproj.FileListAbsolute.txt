@@ -20,6 +20,7 @@ D:\prj\server\FitnessTracker.SecurityContext\bin\Debug\FitnessTracker.SecurityCo
 D:\prj\server\FitnessTracker.SecurityContext\bin\Debug\CryptSharp.dll
 D:\prj\server\FitnessTracker.SecurityContext\bin\Debug\CryptSharp.pdb
 D:\prj\server\FitnessTracker.SecurityContext\bin\Debug\CryptSharp.xml
+D:\prj\server\FitnessTracker.SecurityContext\obj\Debug\FitnessTracker.SecurityContext.csprojResolveAssemblyReference.cache
 D:\prj\server\FitnessTracker.SecurityContext\obj\Debug\FitnessTracker.SecurityContext.csproj.CoreCompileInputs.cache
 D:\prj\server\FitnessTracker.SecurityContext\obj\Debug\FitnessTracker.SecurityContext.dll
 D:\prj\server\FitnessTracker.SecurityContext\obj\Debug\FitnessTracker.SecurityContext.pdb

@@ -25,6 +25,8 @@ namespace FitnessTracker.CompositionRoot
             container.Register<IExpirationTokenOperations, ExpirationTokenOperations>(new PerRequestLifeTime());
             container.Register<INewsOperations, NewsOperations>(new PerRequestLifeTime());
             container.Register<IAdminOperations, AdminOperations>(new PerRequestLifeTime());
+
+            container.Register<IBlockOperations, BlockOperations>(new PerRequestLifeTime());
         }
     }
 }

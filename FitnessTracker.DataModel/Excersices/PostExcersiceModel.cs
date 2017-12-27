@@ -3,8 +3,8 @@
     public class PostExerciseModel
     {
         public int BlockId { get; set; }
-        public int KindOfSport { get; set; }
-        public int Type { get; set; }
+        public string Createdat { get; set; }
+        public string Name { get; set; }
         public int? Time { get; set; }
         public int? Distance { get; set; }
         public int? Weight { get; set; }
